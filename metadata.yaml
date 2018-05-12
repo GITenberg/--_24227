@@ -1,0 +1,36 @@
+_repo: --_24227
+_version: 0.1.0
+alternative_title:
+- 情变
+- Qing-Bian
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wu, Jianren
+    aliases:
+    - Wu, Chien-jen
+    - 吴趼人
+    - 吳趼人
+    - Wu, Yanren
+    - Wu, Woyao
+    birthdate: 1866
+    deathdate: 1910
+    gutenberg_agent_id: '26060'
+    url: http://www.gutenberg.org/2009/agents/26060
+    wikipedia: http://zh.wikipedia.org/wiki/%E5%90%B3%E6%B2%83%E5%A0%AF
+description: ''
+gutenberg_issued: '2008-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24227'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese fiction -- Qing dynasty, 1644-1912'
+title: 情變
+url: http://www.gutenberg.org/ebooks/24227
